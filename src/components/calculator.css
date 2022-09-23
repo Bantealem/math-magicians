@@ -8,12 +8,17 @@
   background-color: #fff;
 }
 
+.main {
+  width: 40%;
+}
+
 .number-input {
-  width: 30%;
-  font-size: 2rem;
+  border: 1px solid #ccc;
+  background-color: #e0e0e0;
+  width: 100%;
+  height: 55px;
+  font-size: 1.5rem;
   text-align: end;
-  padding: 0.2rem;
-  border: 1px solid #000;
 }
 
 .calculation {
