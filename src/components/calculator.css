@@ -9,14 +9,14 @@
 }
 
 .main {
-  width: 40%;
+  width: 50%;
 }
 
 .number-input {
   border: 1px solid #ccc;
   background-color: #e0e0e0;
-  width: 100%;
+  width: 99.8%;
   height: 55px;
   font-size: 1.5rem;
-  text-align: end
+  text-align: end;
 }
