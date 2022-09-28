@@ -15,7 +15,6 @@ export default function App() {
         <Route path="/" element={<Home />} />
         <Route path="/calculator" element={<Calculator />} />
         <Route path="/quote" element={<Quote />} />
-        <Route path="*" element={<h1>404: Not Found</h1>} />
       </Routes>
     </div>
   );
