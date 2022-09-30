@@ -13,7 +13,6 @@
 
 ## Live Demo (if available)
 
-[Live]()
 
 
 ## Getting Started
